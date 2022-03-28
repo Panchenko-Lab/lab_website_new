@@ -1,1 +1,0 @@
-document.getElementById("changeColor").addEventListener("click",function(){document.getElementsByTagName("p")[0].innerHTML="world"});
